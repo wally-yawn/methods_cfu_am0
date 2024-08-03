@@ -9,7 +9,7 @@
 ## Directions
 
 Read the directions and complete all activities in each file, in this order:
-- `built_in_methods.rb`
+- `built_in_methods.rb` - completed
 - `final_practice.rb`
 - `self-evaluation.md`
 
