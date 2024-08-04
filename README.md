@@ -11,7 +11,7 @@
 Read the directions and complete all activities in each file, in this order:
 - `built_in_methods.rb` - completed
 - `final_practice.rb` - completed
-- `self-evaluation.md`
+- `self-evaluation.md` - completed
 
 Based on what you know about Git workflow, make commits as you see fit.
 
